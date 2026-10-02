@@ -1,0 +1,9 @@
+﻿  formating.c
+C:\Users\User\source\repos\lab-02\lab-02\formating.c(20,9): warning C4477: "printf": в строке форматирования "%f" требуется аргумент типа "double", но вариативный аргумент "3" имеет тип "int"
+C:\Users\User\source\repos\lab-02\lab-02\formating.c(22,9): warning C4477: "printf": в строке форматирования "%f" требуется аргумент типа "double", но вариативный аргумент "3" имеет тип "int"
+C:\Users\User\source\repos\lab-02\lab-02\formating.c(26,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+C:\Users\User\source\repos\lab-02\lab-02\formating.c(26,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "2" имеет тип "double"
+C:\Users\User\source\repos\lab-02\lab-02\formating.c(26,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "3" имеет тип "double"
+C:\Users\User\source\repos\lab-02\lab-02\formating.c(63,3): warning C4477: "printf": в строке форматирования "%8.0f" требуется аргумент типа "double", но вариативный аргумент "1" имеет тип "int"
+C:\Users\User\source\repos\lab-02\lab-02\formating.c(71,1): warning C4716: question3: должна возвращать значение
+  lab-02.vcxproj -> C:\Users\User\source\repos\lab-02\x64\Debug\lab-02.exe
