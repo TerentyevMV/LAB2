@@ -40,7 +40,7 @@ ____
 
 ## 2. Реализация программы
 
-```c++
+```c
 #include <stdio.h>
 #include <locale.h>
 
