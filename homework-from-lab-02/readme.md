@@ -33,7 +33,7 @@ ____
 9. **Конец**
 
 ### Блок-схема
-![Блок-схема алгоритма](Screenshot_15.png)
+![Блок-схема алгоритма](../Screenshot_15.png)
 
  [Ссылка на блок-схему](https://app.diagrams.net/#G1gbS5uqZz5COACX76xFl9WXr6SDUFxvg3#%7B%22pageId%22%3A%22Rx9zcCg74zxVW4MSbvLp%22%7D)
 
